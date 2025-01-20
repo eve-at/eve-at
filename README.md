@@ -40,16 +40,16 @@
 <summary>Top Repositories</summary>
 <p align="center">
     <a href="https://github.com/eve-at/telegram-post">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=telegram-post&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=telegram-post&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000001" />
     </a>
     <a href="https://github.com/eve-at/youtube-mp3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=youtube-mp3&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=youtube-mp3&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000001" />
     </a>
     <a href="https://github.com/eve-at/openai-image-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=openai-image-generator&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=openai-image-generator&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000001" />
     </a>
     <a href="https://github.com/eve-at/openai-voice-telegram">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=openai-voice-telegram&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=openai-voice-telegram&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000001" />
     </a>
 </p>
 </details>
