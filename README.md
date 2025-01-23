@@ -51,6 +51,12 @@
     <a href="https://github.com/eve-at/openai-voice-telegram">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=openai-voice-telegram&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000001" />
     </a>
+    <a href="https://github.com/eve-at/online-store-node-express-postgres">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=online-store-node-express-postgres&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000001" />
+    </a>
+    <a href="https://github.com/eve-at/url-shortener-mern">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=url-shortener-mern&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=010001" />
+    </a>
 </p>
 </details>
 
