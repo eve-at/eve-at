@@ -8,7 +8,7 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=First, solve the problem. Then, write the code.+–+John+Johnson" alt="Developer Quote"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&&background=212830FF&center=true&vCenter=true&random=false&width=800&lines=First, solve the problem. Then, write the code.+–+John+Johnson" alt="Developer Quote"/>
 </p>
 </details>
 
