@@ -6,13 +6,6 @@
 </p>
 
 <details open>
-<summary>Developer Quote</summary>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&&background=212830FF&center=true&vCenter=true&random=false&width=800&lines=First, solve the problem. Then, write the code.+–+John+Johnson" alt="Developer Quote"/>
-</p>
-</details>
-
-<details open>
 <summary>About Me</summary>
 <ul>
 <li>🌱 Currently focused on Web Development</li>
@@ -78,13 +71,5 @@
 </details>
 
 <div align="center">
-<p align="center">
-    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CB9DF0&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
-</p>
-<blockquote>
 <p><strong>✨ Code is like humor. When you have to explain it, it’s bad. <br>– Cory House</strong></p>
-</blockquote>
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=CB9DF0&height=60&section=footer"/>
-</p>
 </div>
