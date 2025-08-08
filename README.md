@@ -63,13 +63,6 @@
 </p>
 </details>
 
-<details open>
-<summary>GitHub Stats</summary>
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eve-at&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="EVE-AT's GitHub stats" />
-</p>
-</details>
-
 <div align="center">
 <p><strong>✨ Code is like humor. When you have to explain it, it’s bad. <br>– Cory House</strong></p>
 </div>
