@@ -32,7 +32,7 @@
 </p>
 </details>
 
-<details open>
+<!-- <details open>
 <summary>Top Repositories</summary>
 <p align="center">
     <a href="https://github.com/eve-at/telegram-post">
@@ -54,7 +54,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eve-at&repo=url-shortener-mern&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=010001" />
     </a>
 </p>
-</details>
+</details> -->
 
 <details open>
 <summary>GitHub Contribution Chart</summary>
